@@ -1,4 +1,4 @@
-# Fibonacci
+#==============Fibonacci
 
 # sayac = int(input("bir sayi giriniz: "))
 
